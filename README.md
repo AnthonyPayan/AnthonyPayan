@@ -16,11 +16,10 @@
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" alt="apple"/>
  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
- 
-
 </p>
 
 
 
 
+![ectoplasma](https://user-images.githubusercontent.com/55577599/163474577-2f8723a0-2923-448c-b32b-b44d07a04c4c.gif)
 
